@@ -95,14 +95,14 @@ function projetos(section) {
 
 
         <div class="card">
-          <h3>Portifólio</h3>
+          <h3>Portfólio</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/Portifolio.png"
               alt="Imagem tema do site."
             />
             <div class="buttons">
-              <a href="https://github.com/vinidantasz/Portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/vinidantasz/Portfolio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -116,7 +116,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://vinidantasz.github.io/Portifolio/" id="desafio" title="Ver Projetos">
+              <a href="https://vinidantasz.github.io/Portfolio/" id="desafio" title="Ver Projetos">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
