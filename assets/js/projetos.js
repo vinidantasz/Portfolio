@@ -132,9 +132,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Usado para demonstrar minha apresentação profissional enquanto
+            Usado para demonstrar minha apresentação profissional
           </p>
-          <p>HTML - CSS - JS</p>
+          <p>JAVASCRIPT</p>
         </div>
 
 
